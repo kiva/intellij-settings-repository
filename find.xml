@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.4/35d19dd8f1ce2c2a4dd2daa9f2d3b5d72cde2a89/spring-core-5.3.4-sources.jar!/org/springframework/util/concurrent/ListenableFuture.java [Gradle: org.springframework:spring-core:5.3.4]'" />
-    <option name="defaultScopeName" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.4/35d19dd8f1ce2c2a4dd2daa9f2d3b5d72cde2a89/spring-core-5.3.4-sources.jar!/org/springframework/util/concurrent/ListenableFuture.java [Gradle: org.springframework:spring-core:5.3.4]'" />
-    <option name="SEARCH_SCOPE" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.4/35d19dd8f1ce2c2a4dd2daa9f2d3b5d72cde2a89/spring-core-5.3.4-sources.jar!/org/springframework/util/concurrent/ListenableFuture.java [Gradle: org.springframework:spring-core:5.3.4]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

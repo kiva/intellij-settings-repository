@@ -10,6 +10,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tf" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

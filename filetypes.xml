@@ -8,9 +8,11 @@
       <mapping ext="klib" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="tf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".graphqlconfig" approved="true" type="GraphQL Config" />
     </extensionMap>
   </component>
 </application>

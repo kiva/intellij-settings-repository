@@ -2,17 +2,12 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
-        <entry key="com.jetbrains.edu">
-          <value>
-            <PluginData />
-          </value>
-        </entry>
-        <entry key="org.jetbrains.java.decompiler">
+        <entry key="com.nasller.CodeGlancePro">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
-                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
               <option name="enabled" value="false" />

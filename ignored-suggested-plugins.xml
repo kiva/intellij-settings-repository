@@ -3,6 +3,8 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.bigdatatools" />
+        <option value="aws.toolkit" />
+        <option value="org.dynamodb4idea" />
       </list>
     </option>
   </component>

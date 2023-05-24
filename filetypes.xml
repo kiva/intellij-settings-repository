@@ -4,6 +4,7 @@
       <mapping pattern="Test" type="AUTO_DETECTED" />
       <mapping pattern="temp" type="AUTO_DETECTED" />
       <mapping ext="painless" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>

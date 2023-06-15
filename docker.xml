@@ -1,9 +1,0 @@
-<application>
-  <component name="ComposeFilesSynchronizedWithServiceView">
-    <option value="file://$USER_HOME$/Documents/Projects/kiva-ml-service/docker-compose-app.yml" />
-    <option value="file://$USER_HOME$/Documents/Projects/loan-reservation-service/docker-compose.yml" />
-  </component>
-  <component name="DockerSettings">
-    <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
-  </component>
-</application>

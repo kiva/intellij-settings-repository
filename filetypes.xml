@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="loan-reservation-service" type="AUTO_DETECTED" />
       <mapping pattern="Test" type="AUTO_DETECTED" />
+      <mapping pattern="borrower_data" type="AUTO_DETECTED" />
       <mapping pattern="temp" type="AUTO_DETECTED" />
       <mapping ext="painless" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />

@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="temp" type="AUTO_DETECTED" />
       <mapping pattern="loan-reservation-service" type="AUTO_DETECTED" />
       <mapping pattern="Test" type="AUTO_DETECTED" />
       <mapping pattern="borrower_data" type="AUTO_DETECTED" />
-      <mapping pattern="temp" type="AUTO_DETECTED" />
       <mapping pattern=".env.eksdev" type="PLAIN_TEXT" />
       <mapping pattern=".env.eksstage" type="PLAIN_TEXT" />
       <mapping ext="painless" type="PLAIN_TEXT" />

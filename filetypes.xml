@@ -6,6 +6,7 @@
       <mapping pattern="borrower_data" type="AUTO_DETECTED" />
       <mapping pattern="temp" type="AUTO_DETECTED" />
       <mapping pattern=".env.eksdev" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.eksstage" type="PLAIN_TEXT" />
       <mapping ext="painless" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />

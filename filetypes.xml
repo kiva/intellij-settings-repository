@@ -1,9 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="19">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="loan-reservation-service" type="AUTO_DETECTED" />
       <mapping pattern="Test" type="AUTO_DETECTED" />
       <mapping pattern="borrower_data" type="AUTO_DETECTED" />
+      <mapping pattern="CITI_PD_BAI_20240119170756" type="AUTO_DETECTED" />
+      <mapping pattern="CITI_PD_BAI_20240119131940" type="AUTO_DETECTED" />
       <mapping pattern="temp" type="AUTO_DETECTED" />
       <mapping pattern=".env.eksdev" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
@@ -13,6 +15,8 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>

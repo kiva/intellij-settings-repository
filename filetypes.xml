@@ -14,11 +14,11 @@
       <mapping pattern=".env.eksstage" type="PLAIN_TEXT" />
       <mapping ext="painless" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="vue" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

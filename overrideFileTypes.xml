@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/.kube/config" value="YAML" />
+    <file url="file://$USER_HOME$/Documents/Projects/flux/infrastructure/base/karpenter/nodepools/cronjobs-two-zones.yaml" value="YAML" />
   </component>
 </application>

@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="17" />
       <type value="JavaSDK" />
-      <version value="java version &quot;17.0.9&quot;" />
+      <version value="Amazon Corretto 17.0.9 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/17.0.9-amzn" />
       <roots>
         <annotationsPath>
@@ -186,7 +186,7 @@
     <jdk version="2">
       <name value="corretto-17" />
       <type value="JavaSDK" />
-      <version value="java version &quot;17.0.9&quot;" />
+      <version value="Amazon Corretto 17.0.9 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/17.0.9-amzn" />
       <roots>
         <annotationsPath>

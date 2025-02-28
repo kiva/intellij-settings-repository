@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="loan-reservation-service" type="AUTO_DETECTED" />
       <mapping pattern="Test" type="AUTO_DETECTED" />
@@ -18,7 +18,10 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

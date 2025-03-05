@@ -13,4 +13,7 @@
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
   </component>
+  <component name="notificationEtag">
+    <option name="etag" value="&quot;3eb1f87f15ff45ce98e7109ce35d188a&quot;" />
+  </component>
 </application>

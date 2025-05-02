@@ -187,7 +187,7 @@
     <jdk version="2">
       <name value="17" />
       <type value="JavaSDK" />
-      <version value="java version &quot;21.0.6&quot;" />
+      <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
         <annotationsPath>
@@ -670,7 +670,7 @@
     <jdk version="2">
       <name value="21" />
       <type value="JavaSDK" />
-      <version value="java version &quot;21.0.6&quot;" />
+      <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
         <annotationsPath>
@@ -832,7 +832,7 @@
     <jdk version="2">
       <name value="corretto-21" />
       <type value="JavaSDK" />
-      <version value="Amazon Corretto 21.0.6" />
+      <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
         <annotationsPath>

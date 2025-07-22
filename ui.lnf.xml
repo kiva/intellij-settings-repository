@@ -54,6 +54,8 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="25" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>

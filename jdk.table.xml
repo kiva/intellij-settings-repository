@@ -187,86 +187,86 @@
     <jdk version="2">
       <name value="17" />
       <type value="JavaSDK" />
-      <version value="version 17.0.8" />
-      <homePath value="/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home" />
+      <version value="Amazon Corretto 21.0.6 - aarch64" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
         <annotationsPath>
           <root type="composite">
             <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.base" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.compiler" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.datatransfer" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.desktop" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.instrument" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.logging" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.management" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.management.rmi" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.naming" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.net.http" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.prefs" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.rmi" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.scripting" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.se" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.security.jgss" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.security.sasl" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.smartcardio" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.sql" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.sql.rowset" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.transaction.xa" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.xml" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/java.xml.crypto" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.accessibility" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.attach" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.charsets" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.compiler" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.crypto.ec" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.dynalink" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.editpad" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.httpserver" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.incubator.foreign" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.incubator.vector" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.ed" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.le" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.opt" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jartool" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.javadoc" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jcmd" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jconsole" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jdeps" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jdi" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jfr" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jlink" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jpackage" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jshell" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jsobject" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.jstatd" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.localedata" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.management" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.management.agent" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.management.jfr" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.naming.dns" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.naming.rmi" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.net" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.nio.mapmode" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.random" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.sctp" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.security.auth" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.security.jgss" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.unsupported" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.xml.dom" type="simple" />
-            <root url="jrt:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home!/jdk.zipfs" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.editpad" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.incubator.vector" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jconsole" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jpackage" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jshell" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.jstatd" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.random" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -344,10 +344,78 @@
             <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
             <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
             <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.random" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.incubator.vector" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
           </root>
         </sourcePath>
       </roots>
-      <additional />
     </jdk>
     <jdk version="2">
       <name value="jbr-11" />
@@ -602,7 +670,7 @@
     <jdk version="2">
       <name value="21" />
       <type value="JavaSDK" />
-      <version value="java version &quot;21.0.6&quot;" />
+      <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
         <annotationsPath>
@@ -764,7 +832,7 @@
     <jdk version="2">
       <name value="corretto-21" />
       <type value="JavaSDK" />
-      <version value="Amazon Corretto 21.0.6" />
+      <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
         <annotationsPath>
@@ -919,6 +987,168 @@
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="corretto-21 (2)" />
+      <type value="JavaSDK" />
+      <version value="Amazon Corretto 21.0.6 - aarch64" />
+      <homePath value="$USER_HOME$/.sdkman/candidates/java/current" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.editpad" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.incubator.vector" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jconsole" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jpackage" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jshell" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.jstatd" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.random" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.random" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jpackage" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.incubator.vector" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
           </root>
         </sourcePath>
       </roots>

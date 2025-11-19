@@ -6,6 +6,11 @@
       <version value="Azul Zulu Community™ version 16.0.2" />
       <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/azul-16.0.2/Contents/Home" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-16.0.2/Contents/Home!/java.base" type="simple" />
@@ -79,6 +84,9 @@
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-16.0.2/Contents/Home!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-16.0.2/Contents/Home/lib/src.zip!/java.se" type="simple" />
@@ -161,9 +169,15 @@
       <version value="1.5.10-release-931" />
       <homePath value="$KOTLIN_BUNDLED$" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite" />
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -176,6 +190,12 @@
       <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.base" type="simple" />
@@ -249,6 +269,9 @@
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar:///Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/lib/src.zip!/java.se" type="simple" />
@@ -400,6 +423,11 @@
       <version value="JetBrains Runtime version 11.0.12" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr/Contents/Home" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/gluegen.rt" type="simple" />
@@ -463,6 +491,11 @@
             <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jogl.all" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/11/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -475,6 +508,11 @@
       <version value="Amazon Corretto version 17.0.10" />
       <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.10/Contents/Home" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.10/Contents/Home!/java.base" type="simple" />
@@ -549,6 +587,9 @@
             <root url="jrt://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.10/Contents/Home!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-17.0.10/Contents/Home/lib/src.zip!/java.se" type="simple" />
@@ -632,6 +673,11 @@
       <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.base" type="simple" />
@@ -705,6 +751,9 @@
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.se" type="simple" />
@@ -786,6 +835,11 @@
       <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/java.base" type="simple" />
@@ -859,6 +913,9 @@
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/21.0.6-amzn/lib/src.zip!/java.se" type="simple" />
@@ -940,6 +997,11 @@
       <version value="Amazon Corretto 21.0.6 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/current" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/java.base" type="simple" />
@@ -1013,6 +1075,9 @@
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/.sdkman/candidates/java/current/lib/src.zip!/java.se" type="simple" />

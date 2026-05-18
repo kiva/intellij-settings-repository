@@ -1,19 +1,18 @@
 <application>
-  <component name="authManager">
-    <option name="lastLoginIdcInfo">
-      <LastLoginIdcInfo>
-        <option name="profileName" value="kivaprod" />
-        <option name="region" value="us-east-1" />
-        <option name="startUrl" value="https://kivainfra.awsapps.com/start" />
-      </LastLoginIdcInfo>
-    </option>
-  </component>
-  <component name="aws">
+  <component name="toolkit">
     <option name="QMigrationNotificationShownOnce" value="true" />
     <option name="autoUpdateFeatureNotificationShownOnce" value="true" />
     <option name="promptedForTelemetry" value="true" />
   </component>
-  <component name="notificationEtag">
+  <component name="toolkitAuthManager">
+    <option name="lastLoginIdcInfo">
+      <LastLoginIdcInfo>
+        <option name="profileName" value="kivaprod" />
+        <option name="startUrl" value="https://kivainfra.awsapps.com/start" />
+      </LastLoginIdcInfo>
+    </option>
+  </component>
+  <component name="toolkitNotificationEtag">
     <option name="etag" value="&quot;0fb54ba337f797980efcc1cc2e12ab3c&quot;" />
   </component>
 </application>
